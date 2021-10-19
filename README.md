@@ -1,2 +1,0 @@
-# AB_Testing_and_Experiements_Python_numpy
-# AB_Testing_and_Experiements_Python_numpy
